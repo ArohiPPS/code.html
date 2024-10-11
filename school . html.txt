@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>
+<h1> My School>
+<img src=school image.html>
+<img src=play ground.jpeg> 
+<img src=library.jpeg>
+<img src=practical lab.jpeg>
+</img>
+<p>
+<My school name is Prestige Public School,my school was established in 1990.My school have many branches across India,we have practical labs & library,our all teachers & staffs are friendly.Education is necessity is our tagline .
+</p>
+</html>
+</body>
+</p>
+
+
